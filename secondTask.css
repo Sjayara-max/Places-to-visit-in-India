@@ -1,0 +1,32 @@
+.main_box
+{
+    background-color: lightgray;
+    width: 500px ;
+    box-shadow: 0 2px 5px 0 black;
+}
+.heading_box
+{
+    
+    padding: 16px 4px;
+}
+.content_box
+{
+    background-color: white;
+    padding: 8px 0;
+}
+.cities
+{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.content_box ul li
+{
+    padding: 4px 8px;
+    background-color: lightgray;
+}
+p
+{
+    padding: 8px 2px;
+}
